@@ -2,3 +2,4 @@ venv/
 GitHubKey.txt
 YouTubeAPIKey.txt
 .env
+logs/
